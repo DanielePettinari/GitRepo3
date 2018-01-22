@@ -18,7 +18,7 @@ namespace ConsoleRepo
             Console.WriteLine("Inserisci il nome del programma");
             programma = Console.ReadLine();
 
-            Console.WriteLine("ciao!");
+            Console.WriteLine("hello!");
             Console.ReadLine();
         }
     }
